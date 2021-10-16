@@ -1,0 +1,61 @@
+body{
+
+    background-color: black;
+}
+.container{
+    text-align: center;
+    color: white;
+    
+}
+img{
+    width: 350px;
+    height: 182px;
+}
+hr{
+    max-width: 90%;
+    margin-bottom: 50px;
+}
+.para{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 70px;
+    margin: -13px;
+}
+.para:hover{
+    font-weight: bold;
+    text-decoration: line-through;
+}
+.footer{
+    display: inline;
+    margin-bottom: 50px;
+}
+.footer .container{
+    display: inline;
+    margin-bottom: 50px;
+}
+.footer .container p{
+    color: gray;
+   margin-bottom: 50px;
+}
+.footer .container .social-icons{
+    color: white;
+    float: left;
+    margin-left: 70px;
+}
+.footer .container .social-icons i{
+    padding: 10px;
+}
+.footer .container .social-icons i:hover{
+    cursor: pointer;
+    
+}
+.footer .container .icon{
+    color: white;
+    float: right;
+    margin-right: 70px;
+}
+.footer .container .icon:hover{
+    cursor: pointer;
+}
+.footer .container .icon i{
+    padding: 10px;
+}
